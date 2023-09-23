@@ -22,4 +22,6 @@
         Task 5: Advanced expressions for more filtering options
 
 
--On Rhyme, you do projects in a hands-on manner in your browser. You will get instant access to pre-configured cloud desktops that have all the software and data you will need.
+-On Rhyme, you do projects in a hands-on manner in your browser.
+
+
