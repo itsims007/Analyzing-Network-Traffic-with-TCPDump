@@ -77,16 +77,10 @@
         Now you can see that it is create presenting it in a much more useful way for you to explore the content.
         there are the 10 packets right there with the line number with the time source I. P. Address to destination I. P.
         Address also the protocol length and what it really means. It is useful is it actually breaks down this package
-        Now obviously you can have more than 10 packets.
-        Um and at the next task we're going to talk about how to
-        create dump files with a time limit, Let's say I just want 10
-        minutes of traffic and also a size limits.
-        Obviously these these files can grow extremely large and you
-        will not be able to open it easily.
-
         
-    -Task 4: Create sequence of dump files with size and time limits
-
+        Now obviously you can have more than 10 packets. We create dump files with a time limit, Let's say I just want 10
+        minutes of traffic and also a size limits. Obviously these these files can grow extremely large and you
+        will not be able to open it easily. We can always set limits.
 
 
 
