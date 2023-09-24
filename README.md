@@ -82,6 +82,14 @@
         minutes of traffic and also a size limits. Obviously these these files can grow extremely large and you
         will not be able to open it easily. We can always set limits.
 
+        By entering sudo tcpdump -#XXtttt host skyroute66.com -w catured.pcap -G 15  this is saying every 15 seconds I want you
+        to wipe out the contents of this file. We can stop this by entering control-c or extending the time. If you want one minute you will say 60 and if you want 10
+        minutes you will say 600.
+
+        So another option is for file dump file size and its upper case -C. It means one million bytes is not exactly
+        one megabyte, but it is pretty close. So when I say one, I don't want my dump file to be bigger
+        than one million bytes, otherwise it will generate a new file. This is useful for extended period of time and obviously
+        you don't want to capture that many packets, but this is how it works.
 
 
 
